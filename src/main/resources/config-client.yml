@@ -1,2 +1,5 @@
 info:
     profile: default
+
+server:
+  post: 2001
